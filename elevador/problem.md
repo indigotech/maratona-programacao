@@ -10,7 +10,7 @@ Cada caso de teste consiste de uma única linha, contendo um inteiro _N_ que ind
 Para cada caso de teste, imprima uma linha contendo um único número inteiro indicando o número atribuído ao _N_-ésimo andar.
 
 ## Restrições
-1 &le; _N_ &le; 1018
+1 &le; _N_ &le; 10<sup>18</sup>
 
 ## Exemplos
 | Entrada | Saída |
