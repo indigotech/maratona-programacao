@@ -18,22 +18,23 @@ assume this word is either `yes` or `no`.
 ## Output
 Your program should output the three-year-old's reply to the grown-up.
 
-## Sample input 1
+## Samples
+### Sample input 1
 ```
 yes
 ```
 
-## Sample output 1
+### Sample output 1
 ```
 no
 ```
 
-## Sample input 2
+### Sample input 2
 ```
 no
 ```
 
-## Sample output 2
+### Sample output 2
 ```
 yes
 ```

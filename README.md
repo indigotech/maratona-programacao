@@ -6,13 +6,13 @@ Maratona de Programação da Taqtile 2017
 - [Pega Ladrão](pega-ladrao/problem.md)
 
 ## Problemas
-- A - Elevador Espacial
-- B - Estrela
-- C - I’d rather walk alone
-- D - huaauhahhuahau
-- E - Ruas de Suzano
-- F - Happy birthday to you
-- G - The Pinmaker
-- H - A healthy supply of ministers
-- I - Tobogan de Bolinhas
-- J - War
+- [Elevador Espacial](elevador/problem.md)
+- [Estrela](estrela/problem.md)
+- [I’d rather walk alone](alone/problem.md)
+- [huaauhahhuahau](huehue/problem.md)
+- [Ruas de Suzano](suzano/problem.md)
+- [Happy birthday to you](birthday/problem.md)
+- [The Pinmaker](pinmaker/problem.md)
+- [A healthy supply of ministers](healthy/problem.md)
+- [Tobogan de Bolinhas](tobogan/problem.md)
+- [War](war/problem.md)
