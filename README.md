@@ -1,6 +1,11 @@
 # maratona-programacao
 Maratona de Programação da Taqtile 2017
 
+Os problemas foram tirados das seguintes competições:
+- UiO Programming Challenge H14 - https://github.com/MAPSuio/UPC-H14
+- Maratona de Programação 2012 - http://maratona.ime.usp.br/hist/2012/
+- Maratona de Programação 2016 - http://maratona.ime.usp.br/hist/2016/
+
 ## Aquecimento
 - [Artificial three-year-old](artifi/problem.md)
 - [Pega Ladrão](pega-ladrao/problem.md)
